@@ -6,7 +6,9 @@
     box-sizing: border-box;
     font-family: 'Josefin Sans', sans-serif;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 
 .hero{
     height: 100vh;
